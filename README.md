@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aalaprana995
+- 👋 Hi, I’m Aalap Rana
 - 👀 I’m interested in ...Robotics and Computer Vision
 - 🌱 I’m currently learning ...Deep learning and ROS
 - 💞️ I’m looking to collaborate on ...ROS and robotics projects
